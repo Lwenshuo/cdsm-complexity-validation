@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "CDSM Complexity Validation"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Li"
+    given-names: "WS."
+    affiliation: "Harbin Institute of Technology (Shenzhen)"
+date-released: 2025-08-28
+url: "https://github.com/<yourname>/cdsm-complexity-validation"
+version: "1.0.0"
